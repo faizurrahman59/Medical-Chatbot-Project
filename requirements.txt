@@ -1,16 +1,4 @@
-# Medical-Chatbot-Project
-
-
-
-
-
-
-
-
-
-requirements list for medibot:
-
-sentence transformers == 2.2.2
+sentence-transformers == 2.2.2
 langchain
 flask
 pypdf
@@ -20,3 +8,4 @@ langchain-pinecone
 langchain-community
 langchain-openai
 langchain-experimental
+-e .
